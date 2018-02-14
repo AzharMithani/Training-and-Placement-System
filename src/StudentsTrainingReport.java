@@ -15,7 +15,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class StudentsTrainingReport extends javax.swing.JFrame {
 Connection con=null;

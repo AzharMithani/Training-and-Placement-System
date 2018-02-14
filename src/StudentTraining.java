@@ -16,7 +16,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class StudentTraining extends javax.swing.JFrame {
 Connection con=null;

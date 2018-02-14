@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class Company extends javax.swing.JFrame {
 Connection con=null;

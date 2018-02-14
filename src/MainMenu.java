@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class MainMenu extends javax.swing.JFrame {
 

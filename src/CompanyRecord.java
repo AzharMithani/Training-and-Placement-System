@@ -12,7 +12,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class CompanyRecord extends javax.swing.JFrame {
 Connection con=null;

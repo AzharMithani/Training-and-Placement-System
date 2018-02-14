@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Raj
+ * @author azharmithani 
  */
 public class Contact extends javax.swing.JFrame {
 
